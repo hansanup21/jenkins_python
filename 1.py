@@ -1,2 +1,2 @@
-print("Master")
-print("Hello World")
+print("Hello Master")
+print("Welcome to World of Pain")
